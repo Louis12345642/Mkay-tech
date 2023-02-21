@@ -51,7 +51,7 @@
                                 to="#"
                             >
                                 <p
-                                    class="mt-5 align-bottom text-sm font-semibold text-gray-500"
+                                    class="hidden lg:mt-5 lg:align-bottom lg:text-sm lg:font-semibold lg:text-gray-500   "
                                 >
                                 {{ post.x_author}}
                                 </p>

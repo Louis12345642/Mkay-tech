@@ -41,13 +41,13 @@
         </p>
         <section class="flex justify-between">
           <div class="flex gap-3">
-            <p class="mt-10 align-bottom font-sans font-semibold text-gray-500">
+            <p class=" media mt-10 align-bottom font-sans font-semibold text-gray-500">
               <!-- {{post[0].author.name}} -->
               {{ featured[0].x_author}}
             </p>
             <!-- </Link> -->
             <img
-              class="mt-7 w-12 h-12 rounded-full round-border"
+              class="media mt-7 w-12 h-12 rounded-full round-border"
               src="~/assets/images/tech.jpg"
               alt=""
             />
@@ -55,7 +55,7 @@
           <div class="p-4 mt-6">
             <NuxtLink :to=" `/blog/${featured[0].id}` ">
               <button
-                class="font-sans font-semibold btn-bg rounded-lg text-sm h-8"
+                class=" media font-sans font-semibold btn-bg rounded-lg text-sm h-8"
               >
                 read more
               </button></NuxtLink

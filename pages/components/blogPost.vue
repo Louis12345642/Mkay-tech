@@ -51,23 +51,22 @@
                                 to="#"
                             >
                                 <p
-                                    class="hidden lg:mt-5 lg:align-bottom lg:text-sm lg:font-semibold lg:text-gray-500   "
+                                    class=" media mt-2 align-bottom text-sm font-semibold text-gray-500 "
                                 >
                                 {{ post.x_author}}
                                 </p>
                             </NuxtLink>
                             <img
-                                class="mt-4 ml-4 w-10 h-10 rounded-full round-border"
+                                class="media mt-4 ml-4 w-10 h-10 rounded-full round-border"
                                 src=~/assets/images/tech.jpg
                                 alt=""
                             />
                         </div>
-
                         <!-- readmore button -->
                         <div class="p-4 mt-2">
                             <NuxtLink to="#">
                                 <button
-                                    class="font-sans font-semibold btn-bg rounded-lg text-sm h-8"
+                                    class="media font-sans font-semibold btn-bg rounded-lg text-sm h-8"
                                 >
                                     read more
                                 </button></NuxtLink
@@ -100,6 +99,13 @@ const categoryRoute =(id)=>{
 
 </script>
 
+
+
 <style>
+@media only screen and (max-width: 400px) {
+    .media{
+        visibility: hidden;
+    }
+  }
 
 </style>

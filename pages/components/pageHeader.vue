@@ -63,7 +63,7 @@
           </NuxtLink>
 
           <nav>
-            <button @click="navBarOpen = !navBarOpen" class="cursor-pointer m-3 md:hidden">
+            <button @click="toggleNav()" class="cursor-pointer m-3 md:hidden">
               <div class="icon"></div>
               <div class="icon"></div>
               
@@ -102,7 +102,11 @@
 
 <script setup>
 
-let navBarOpen = ref(true)
+// let navBarOpen = ref(true)
+
+let navBarOpen = ref(false);
+    const toggleNav = () => (navBarOpen.value = !navBarOpen.value);
+  
 
 
 

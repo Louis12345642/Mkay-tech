@@ -17,11 +17,11 @@
 <script setup>
 import blogPost from '../components/blogPost.vue';
 
-let uri = "https://dev-louis-dev.pantheonsite.io/wp-json/wp/v2/posts?_embed";
+let uri = "/api/blog";
 
 //geting the featured data from the api
 let { data: featuredPosts } = await useFetch(uri);
-console.log("new request",featuredPosts)
+
 </script>
 
 <style></style>

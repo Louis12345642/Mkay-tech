@@ -1,6 +1,9 @@
 <template>
    <main>
     <main>
+        <br>
+        <br>
+        
     <section class="container">
         <section class=" lg:mx-auto lg:flex  lg:justify-center md:mx-auto md:flex  md:justify-center">
             <div class=" w-72 h-44 p-5 m-5  card-bg card-border rounded-lg shadow-md hover:bg-slate-200">

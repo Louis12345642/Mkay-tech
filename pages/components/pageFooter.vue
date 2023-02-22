@@ -16,10 +16,13 @@
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase ">Resources</h2>
                 <ul class="text-gray-600 ">
                     <li class="mb-4">
-                        <a href="https://flowbite.com/" class="hover:underline">Mkay tech</a>
+                        <NuxtLink to="/blog" class="text-xs font-bold uppercase text-white  md:text-black">BLOG</NuxtLink>
                     </li>
                     <li>
-                        <a href="https://tailwindcss.com/" class="hover:underline"> Mkay tech</a>
+                        <NuxtLink to="/contact" class="text-xs font-bold usppercase text-white md:text-black">CONTACT</NuxtLink>
+                    </li>
+                    <li>
+                        <NuxtLink to="/about" class="text-xs font-bold usppercase text-white md:text-black">ABOUT</NuxtLink>
                     </li>
                 </ul>
             </div>
@@ -49,7 +52,7 @@
     </div>
     <hr class="my-6 border-gray-700 sm:mx-auto  lg:my-8" />
     <div class="sm:flex sm:items-center sm:justify-between">
-        <span class="text-sm text-gray-500 sm:text-center ">© 2023 <a href="" class="hover:underline">Flowbite™</a>. All Rights Reserved.
+        <span class="text-sm text-gray-500 sm:text-center ">© 2023 <a href="" class="hover:underline">  MKay Tech™</a>. All Rights Reserved.
         </span>
         <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
             <a href="#" class="text-gray-500 hover:text-gray-900 ">

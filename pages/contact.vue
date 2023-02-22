@@ -1,6 +1,9 @@
 <template>
   <div>
+    <br>
+    <br>
     <!-- contact us  -->
+   <main>
     <main class="flex justify-center mt-20 gap-10">
       <section>
         <div
@@ -43,6 +46,7 @@
     
       </section>
     </main>
+   </main>
   </div>
 </template>
 

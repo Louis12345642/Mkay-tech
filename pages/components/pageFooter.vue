@@ -16,13 +16,13 @@
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase ">Resources</h2>
                 <ul class="text-gray-600 ">
                     <li class="mb-4">
-                        <NuxtLink to="/blog" class="text-xs font-bold uppercase text-white  md:text-black">BLOG</NuxtLink>
+                        <NuxtLink to="/blog" class="text-xs font-bold uppercase text-black">BLOG</NuxtLink>
                     </li>
                     <li>
-                        <NuxtLink to="/contact" class="text-xs font-bold usppercase text-white md:text-black">CONTACT</NuxtLink>
+                        <NuxtLink to="/contact" class="text-xs font-bold usppercase text-black">CONTACT</NuxtLink>
                     </li>
                     <li>
-                        <NuxtLink to="/about" class="text-xs font-bold usppercase text-white md:text-black">ABOUT</NuxtLink>
+                        <NuxtLink to="/about" class="text-xs font-bold usppercase text-black">ABOUT</NuxtLink>
                     </li>
                 </ul>
             </div>

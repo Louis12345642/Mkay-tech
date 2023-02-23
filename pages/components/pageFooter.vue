@@ -10,6 +10,8 @@
             <p class="mt-8 max-w-lg sm:text-xl sm:leading-relaxed lg:text-sm text-gray-600 " >
         Welcome to mkay technologies ,it is Louis great to have you! Here are bunch of programming tuturial that will get your coding skills enhanced
           </p>
+
+          <adsbygoogle /> 
         </div>
         <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
             <div>

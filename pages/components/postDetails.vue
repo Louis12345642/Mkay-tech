@@ -16,6 +16,9 @@
                   <h6>{{ post.x_categories }}</h6>
               </div>
           </div>
+          <adsbygoogle /> 
+          <adsbygoogle /> 
+          <adsbygoogle /> 
       </div>
 
       <div class="col-span-8">

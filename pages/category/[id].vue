@@ -1,6 +1,6 @@
 <template>
   <main>
-    <NuxtLoadingIndicator/>
+  <NuxtLoadingIndicator/>
     <br>
     <div>
     <h1 class=" mt-20  text-center  mb-20 text-3xl font-extrabold text-gray-900  md:text-4xl lg:text-5xl"><span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Letast blog </span>From {{ posts[0].x_categories}}</h1>

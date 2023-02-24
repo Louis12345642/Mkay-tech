@@ -1,4 +1,6 @@
 <template>
+<main>
+  <br>
   <div>
     <NuxtLoadingIndicator/>
     <section
@@ -74,6 +76,7 @@
     </main>
 
   </div>
+</main>
 </template>
 <script setup>
 import blogPost from './components/blogPost.vue';

@@ -1,32 +1,9 @@
 <template>
    <main>
+    <br>
+    <br>
     <NuxtLoadingIndicator />
-    <main>
-        <br>
-        <br>
-        
-    <section class="container">
-        <section class=" lg:mx-auto lg:flex  lg:justify-center md:mx-auto md:flex  md:justify-center">
-            <div class=" w-72 h-44 p-5 m-5  card-bg card-border rounded-lg shadow-md hover:bg-slate-200">
-                <h1 class="text-sm font-sans font-bold mt-3 text-center uppercase mb-3"> Email</h1>
-                <img class="mx-auto mb-2"
-                      src="~/assets/icons/mailbox-icon.svg"
-                      alt="mailbox letter"
-                    />
-                    <h1 class="text-sm text-center font-sans font-medium mt-3 text-gray-500 ">manners@ettiquetes.com</h1>
-            </div>
-            <div class=" p-5 m-5  card-bg card-border rounded-lg shadow-md h-44 w-72 hover:bg-gray-200">
-                <h1 class="text-sm font-sans font-bold mt-3 text-center uppercase mb-3"> Contact</h1>
-                <img class="mx-auto mb-2"
-                      src="~/assets/icons/mailbox-icon.svg"
-                      alt="mailbox letter"
-                    />
-         
-                    <h1 class="text-sm font-sans font-medium mt-3 text-center text-gray-500"> +211921-000-267 </h1>
-            </div>
-        </section>
-    </section>
-  </main>
+    
   
 <main class="max-w-6xl mx-auto mt-10 lg:mt-20 space-y-6 container">
   <article class="max-w-4xl mx-auto lg:grid lg:grid-cols-12 gap-x-10">

@@ -11,7 +11,7 @@
 
 <section   class="grid grid-cols-1 md:grid md:grid-cols-2 lg:grid lg:grid-cols-6 gap-8 m-10">
   
-
+  <NuxtLoadingIndicator />
   
   <blogPost v-for="featured in featuredPosts" :key="featured.id" :post="featured"/>
 

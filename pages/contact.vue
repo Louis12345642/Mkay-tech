@@ -4,6 +4,7 @@
     <br>
     <!-- contact us  -->
    <main>
+    <NuxtLoadingIndicator />
     <main class="flex justify-center mt-20 gap-10">
       <section>
         <div

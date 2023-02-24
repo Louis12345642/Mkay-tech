@@ -20,7 +20,7 @@
           <adsbygoogle /> 
           <adsbygoogle /> 
       </div>
-
+      <NuxtLoadingIndicator />
       <div class="col-span-8">
           <div class="hidden lg:flex justify-between mb-6">
               <NuxtLink to="/"

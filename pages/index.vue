@@ -14,12 +14,12 @@
    Hello Techies
 
             <strong class="block font-extrabold text-blue-700">
-             Mkay Tech
+             KolaSoft
             </strong>
           </h1>
 
           <p class="mt-4 max-w-lg sm:text-xl sm:leading-relaxed">
-        Welcome to mkay technologies ,it is Louis great to have you! Here are bunch of programming tuturial that will get your coding skills enhanced
+        Welcome to kolasoft technologies ,it is Louis great to have you! Here are bunch of programming tuturial that will get your coding skills enhanced
           </p>
 
           <div class="mt-8 flex flex-wrap gap-4 text-center">

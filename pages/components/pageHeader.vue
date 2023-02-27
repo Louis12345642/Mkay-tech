@@ -58,7 +58,7 @@
         <head class="w-full bg-red-50 fixed flex justify-between items-center p-5 md:p-5">
           <NuxtLink to="/">
             <h1 class="text-lg font-bold font-mono md:text-xl lg:text-2xl mb-3">
-              <span class="secondary-color">Mkay</span> Technologies
+              <span class="secondary-color">Kola</span>Soft
             </h1>
           </NuxtLink>
 

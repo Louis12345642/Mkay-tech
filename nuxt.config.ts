@@ -24,25 +24,5 @@ export default defineNuxtConfig({
         }
       },
       
-        // modules: [
-        //   // Simple usage
-        //   ['@nuxtjs/google-adsense', {
-        //     id: 'ca-pub-5601341163967044'
-        //   },
-     
-          
-        // ],
-
-        // // [ '@nuxtjs/google-analytics',{
-        // //   googleAnalytics: {
-        // //     id: 'G-V9G9NNYXFY'
-        // //   }
-        // // }]
-        
-    
-   
-      
-
- 
 })
 

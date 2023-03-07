@@ -3,7 +3,7 @@
             class="card-bg card-border rounded-md lg:col-span-2 hover:bg-gray-200 cursor-pointer shadow-md md:col-span-2"
         >
             <!-- this the wrapper for all content -->
-            <div class="wrapper grid grid-cols-1 gap-3 m-2">
+            <div class="wrapper grid grid-cols-1 gap-1 m-1">
                 <!-- image container -->
 
                 <section class="m-4">

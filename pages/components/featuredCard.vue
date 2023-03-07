@@ -13,6 +13,7 @@
       <!-- card header,excert and title text dev -->
 
       <article class="p-4 lg:m-2 lg:p-2">
+        <NuxtLink :to=" `/blog/${featured[0].id}` " >
         <div>
           <div class="space-x-2 ml-1">
             <NuxtLink
@@ -62,9 +63,9 @@
             >
           </div>
         </section>
+      </NuxtLink>
       </article>
 
-   
     </div>
 
 </template>
@@ -87,4 +88,5 @@ const categoryRoute =(id)=>{
 
 </script>
 
-<style></style>
+<style>
+</style>

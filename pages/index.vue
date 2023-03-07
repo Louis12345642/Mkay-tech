@@ -12,7 +12,6 @@
         <div class="max-w-xl text-center sm:text-left">
           <h1 class="text-3xl font-extrabold sm:text-5xl">
    Hello Techies
-
             <strong class="block font-extrabold text-blue-700">
              KolaSoft
             </strong>
@@ -57,7 +56,7 @@
           <h1 class="font-bold font-mono text-center mt-6 mb-4 text-3xl">
             Trending
           </h1>
-          <trend-card v-for="trendingPost in featuredPosts" :key="trendingPost.id" :post="trendingPost"  />
+          <trend-card v-for="trendingPost in featuredPosts.slice(0,4)" :key="trendingPost.id" :post="trendingPost"  />
         
 
         </section>

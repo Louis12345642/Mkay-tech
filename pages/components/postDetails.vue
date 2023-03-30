@@ -18,7 +18,7 @@
           </div>
           <adsbygoogle /> 
           <adsbygoogle /> 
-          <adsbygoogle /> 
+        
       </div>
       <NuxtLoadingIndicator />
       <div class="col-span-8">

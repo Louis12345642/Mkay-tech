@@ -68,6 +68,8 @@
 
         <blogPost :post="featuredPosts[1]"/>
         <blogPost :post="featuredPosts[2]"/>
+        <adsbygoogle />
+        <adsbygoogle />
         <NuxtLoadingIndicator />
        
 

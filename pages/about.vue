@@ -3,14 +3,10 @@
     <br>
     <br>
     <NuxtLoadingIndicator />
-    
-  
 <main class="max-w-6xl mx-auto mt-10 lg:mt-20 space-y-6 container">
   <article class="max-w-4xl mx-auto lg:grid lg:grid-cols-12 gap-x-10">
       <div class="col-span-4 lg:text-center lg:pt-14 mb-10">
           <img src="~/assets/images/atomic.jpg" alt="" class="rounded-xl">
-
-
           <div class="flex items-center lg:justify-center text-sm mt-4">
               <img class="mt-7 w-16 h-16 rounded-full round-border" src="~/assets/images/logo.png" alt="">
               <div class="ml-5 text-left mt-5">
@@ -19,7 +15,6 @@
               </div>
           </div>
       </div>
-
       <div class="col-span-8">
           <div class="hidden lg:flex justify-between mb-6">
               <a href="/"
@@ -36,9 +31,7 @@
 
            get back home
               </a>
-
           </div>
-
           <h1 class="font-bold text-3xl lg:text-4xl mb-10">
             More about Kola soft
            
@@ -52,14 +45,9 @@
       </div>
   </article>
 </main>
- 
    </main>
   </template>
-  
   <script setup>
-  
   </script>
-  
   <style>
-  
   </style>

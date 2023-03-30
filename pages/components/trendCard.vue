@@ -24,6 +24,7 @@
               <time>{{post.x_date}} </time>
               </p>
             </article>
+            
         </NuxtLink>
 
           </section>

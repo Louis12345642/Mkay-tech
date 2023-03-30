@@ -23,6 +23,12 @@ export default defineNuxtConfig({
           
         }
       },
+      modules: [
+        // Simple usage
+        ['@nuxtjs/google-adsense', {
+          id: 'ca-pub-5190481856360937'
+        }]
+     ]
       
 })
 

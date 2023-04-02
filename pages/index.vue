@@ -8,6 +8,8 @@
       <div class="absolute inset-0 bg-white/75 sm:bg-transparent sm:bg-gradient-to-r sm:from-white/95 sm:to-white/25">
       </div>
 
+      
+
       <div class="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8">
         <div class="max-w-xl text-center sm:text-left">
           <h1 class="text-3xl font-extrabold sm:text-5xl">
@@ -27,15 +29,19 @@
             Get started
             </NuxtLink>
 
+           
+
             <NuxtLink to="/about"
               class=" cursor-pointer mt-4 mx-4 px-4 py-2 text-w text-sm text-purple-600 font-semibold rounded-full border border-purple-500 hover:text-white hover:bg-purple-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 w-36">
             learn more
             </NuxtLink>
           </div>
+          
         </div>
       </div>
 
     </section>
+    
 
 
 

@@ -28,7 +28,12 @@ export default defineNuxtConfig({
         ['@nuxtjs/google-adsense', {
           id: 'ca-pub-5190481856360937'
         }]
-     ]
+     ],
+
+     plugins: [
+      { src: '~/plugins/adsense.js', ssr: false }
+    ],
+    
       
 })
 

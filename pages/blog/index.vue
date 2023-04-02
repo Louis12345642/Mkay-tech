@@ -19,6 +19,14 @@
 </div>
   </main>
 
+
+  <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5190481856360937"
+         data-ad-slot="4662630089"
+         data-ad-format="auto"
+         v-adsense></ins>
+
 </main>
  
   
